@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on <a href="https://medium.com/">Medium</a>  <br>
 - 👯 I look forward to working with a great company<br>
 - 📫 How to reach me **murin.89@list.ru**<br>
-- 🌍 I speak Russian (native), English (B2)<br>
+- 🌍 I speak Russian (native)<br>
 
 ### Connect with me:
 <p align="left">
