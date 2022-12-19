@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, Web Developer</h3>
 -🌱 I’m currently learning **javaScript, php, web**<br>
--🌱 Currently studying the full stack<br>
+- 📝 I regularly write articles on <a href="https://medium.com/">Medium</a>  <br>
 - 👯 I look forward to working with a great company<br>
 - 📫 How to reach me **murin.89@list.ru**<br>
 - 🌍 I speak Russian (native), English (B2)<br>
